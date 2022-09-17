@@ -100,6 +100,4 @@ foreach(string str in array)
         counter++;
     }
 }
-Console.WriteLine(array[0]);
-Console.WriteLine(result.Length);
 Console.WriteLine("[{0}]", string.Join(", ", result));
