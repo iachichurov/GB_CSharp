@@ -86,7 +86,7 @@
 //     count++;
 // }
 
-string[] array = {"hello", "2", "world", ":-E", "df", "da"};
+string[] array = {"hello", "2", "world", ":-E"};
 int counter = 0;
 string[] result = new string[0];
 
